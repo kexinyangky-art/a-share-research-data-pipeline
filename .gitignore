@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Raw and generated datasets
+data/raw/
+data/processed/
+
+# Checkpoints
+*checkpoint*
+*_completed_codes.txt
+
+# Logs
+*.log
